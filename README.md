@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java**
 
-- 💬 Ask me about **Java, HTML, CSS, JS, React, AWS**
+- 💬 Ask me about **Java, HTML, CSS, JS, React, MySQL, AWS, Git/GitHub**
 
 - 📫 How to reach me **adityapatil2348@gmail.com**
 
